@@ -1,1 +1,108 @@
-hellow world
+
+* {
+    font-family: 'amador';
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+}
+.header {
+    background-color: #01403F; 
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+    padding-left: 5%;
+    color: #CEBC96;
+    margin-bottom: 10px;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+a {
+    color: #CEBC96;
+    text-decoration: none;
+}
+
+.hero {
+    height: 600px;
+    width: 100%;
+    background-image: url("../images/zelda-title-art.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.main {
+    display: inline-flex;
+    flex-direction: column;
+    background-size: 100%;
+}
+
+.float-right {
+    float: right;
+    margin-right: 25px;
+}
+
+.float-left {
+    float: left;
+    margin-left: 25px;
+}
+
+/*.main div img {
+    display: inline-block;
+}*/
+
+/*.main h2 {
+    text-align: center;
+}*/
+
+#totk {
+    text-align: center;
+    background-color: #CEBC96;
+    background-size: 100%;
+    display: block;
+}
+
+#botw {
+    text-align: center;
+    background-color: white;
+    background-size: 100%;
+    display: block;
+}
+
+#ocarina-of-time {
+    text-align: center;
+    background-color: #CEBC96;
+    background-size: 100%;
+    display: block;
+}
+
+#majoras-mask {
+    text-align: center;
+    background-color: white;
+    background-size: 100%;
+    display: block;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 100px;
+    background-color: white;
+}
+

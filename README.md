@@ -11,3 +11,4 @@ Dark Green: #01403F
 
 
 ## Color Screen Shot
+![Zelda Colors](https://github.com/kbliss86/practice-zelda/blob/main/assets/images/Zelda-Colors.jpeg)
